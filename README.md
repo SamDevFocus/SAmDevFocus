@@ -1,25 +1,50 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamDevFocus&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamDevFocus&theme=tokyonight)
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21a2d9&height=120&section=header"/>
+
+
+
+<!-- Seu Nome -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21a2d9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Samuel;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamDevFocus&show_icons=true&count_private=true&hide_border=true&title_color=00fa9a&icon_color=21a2d9&text_color=FFF&bg_color=0d1117" alt="Samuel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamDevFocus&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=21a2d9" />
 </div>
 
-###
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamDevFocus&bg_color=061222&color=00fa9a&line=03abff&point=00fa9a&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
-  <a href="https://discord.gg/sharing18" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:2005samuelwork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/samuel-conceição-de-souza-b3b18028a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+## 🔧 Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 🌱 Atualmente Estou Aprendendo
+
+Estou estudando Desenvolvimento web Java pelo Instituto Proa.
+Aprende sobre:
+- UI/UX
+- HTML/CSS
+
+Estou aprendendo sobre:
+
+- JavaScript
+- Java
+- SQL
+
+---
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SamDevFocus}/count.svg" /></p> 
+<br>
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## 💬 Vamos Conversar!
+
+Estou sempre aberto a novas oportunidades de colaboração e a conhecer novos colegas da área. Vamos trocar ideias!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-concei%C3%A7%C3%A3o-de-souza-b3b18028a/)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0057ff&height=120&section=footer"/>
