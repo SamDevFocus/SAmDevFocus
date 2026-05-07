@@ -1,50 +1,98 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21a2d9&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=130&section=header"/>
 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21a2d9&size=32&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Samuel+👋;Desenvolvedor+Back-end+em+formação+|+ADS+🎓;Java+%7C+Python+%7C+JavaScript;Integração+de+APIs+%7C+Sistemas+%7C+Web)](https://git.io/typing-svg)
 
-<!-- Seu Nome -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21a2d9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Samuel;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamDevFocus&show_icons=true&count_private=true&hide_border=true&title_color=00fa9a&icon_color=21a2d9&text_color=FFF&bg_color=0d1117" alt="Samuel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamDevFocus&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=21a2d9" />
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamDevFocus&bg_color=061222&color=00fa9a&line=03abff&point=00fa9a&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🔧 Tecnologias e Ferramentas
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-## 🌱 Atualmente Estou Aprendendo
-
-Estou estudando Desenvolvimento web Java pelo Instituto Proa.
-Aprende sobre:
-- UI/UX
-- HTML/CSS
-
-Estou aprendendo sobre:
-
-- JavaScript
-- Java
-- SQL
 
 ---
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Braz Cubas, com foco em **desenvolvimento Back-end com Java**. Apaixonado por construir sistemas robustos, APIs e soluções que resolvem problemas reais.
+
+Tenho experiência prática com projetos que envolvem **integração de APIs** e **desenvolvimento web** — sempre buscando evoluir e transformar conhecimento em código.
+
+- 🏠 Itaquaquecetuba, São Paulo
+- 🎓 ADS — Universidade Braz Cubas *(em andamento)*
+- 🌐 Inglês Intermediário
+- 📫 2005samuelwork@gmail.com
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🌍 [IA & Desigualdade Social](https://intinerario-site.vercel.app/)
+> Site educativo desenvolvido como projeto acadêmico interdisciplinar na Universidade Braz Cubas.
+
+Aborda os impactos da IA na desigualdade social e disponibiliza links de cursos gratuitos para democratizar o acesso ao conhecimento.
+
+`HTML` `CSS` `Bootstrap` `JavaScript` — hospedado na **Vercel**
+
+---
+
+### 🐟 Plataforma Glaucus — Assistente para Pescadores
+> Projeto desenvolvido durante o **ProProfissão** em parceria com o **SENAC**.
+
+Atuei como desenvolvedor web responsável por:
+- 🤖 Integração da **API do ChatGPT** com identidade própria ("Glaucus") para responder dúvidas de pescadores
+- 📸 Implementação da **API do Google Lens** para identificação de espécies de peixes por foto
+
+`JavaScript` `Python` `API ChatGPT` `API Google Lens`
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+**Linguagens & Frameworks**
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Dados & Banco de Dados**
+
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Ferramentas & IDEs**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SamDevFocus}/count.svg" /></p> 
-<br>
+  <img src="https://streak-stats.demolab.com?user=SamDevFocus&theme=dark&hide_border=true&stroke=21a2d9&ring=21a2d9&fire=21a2d9&currStreakLabel=21a2d9" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SamDevFocus/SamDevFocus/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-## 💬 Vamos Conversar!
+---
 
-Estou sempre aberto a novas oportunidades de colaboração e a conhecer novos colegas da área. Vamos trocar ideias!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-concei%C3%A7%C3%A3o-de-souza-b3b18028a/)
+## 🤝 Vamos nos conectar!
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0057ff&height=120&section=footer"/>
+Estou em busca de oportunidades de **estágio ou posição júnior em TI**. Aberto a colaborações, projetos e novas conexões!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelcsouza2005/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2005samuelwork@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Projeto%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://intinerario-site.vercel.app/)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=130&section=footer"/>
