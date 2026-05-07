@@ -21,28 +21,6 @@ Tenho experiência prática com projetos que envolvem **integração de APIs** e
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🌍 [IA & Desigualdade Social](https://intinerario-site.vercel.app/)
-> Site educativo desenvolvido como projeto acadêmico interdisciplinar na Universidade Braz Cubas.
-
-Aborda os impactos da IA na desigualdade social e disponibiliza links de cursos gratuitos para democratizar o acesso ao conhecimento.
-
-`HTML` `CSS` `Bootstrap` `JavaScript` — hospedado na **Vercel**
-
----
-
-### 🐟 Plataforma Glaucus — Assistente para Pescadores
-> Projeto desenvolvido durante o **ProProfissão** em parceria com o **SENAC**.
-
-Atuei como desenvolvedor web responsável por:
-- 🤖 Integração da **API do ChatGPT** com identidade própria ("Glaucus") para responder dúvidas de pescadores
-- 📸 Implementação da **API do Google Lens** para identificação de espécies de peixes por foto
-
-`JavaScript` `Python` `API ChatGPT` `API Google Lens`
-
----
-
 ## 🛠️ Habilidades Técnicas
 
 **Linguagens & Frameworks**
@@ -86,6 +64,10 @@ Atuei como desenvolvedor web responsável por:
 ## 🤝 Vamos nos conectar!
 
 Estou em busca de oportunidades de **estágio ou posição júnior em TI**. Aberto a colaborações, projetos e novas conexões!
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
 
 <div align="center">
 
